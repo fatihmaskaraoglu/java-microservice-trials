@@ -22,4 +22,5 @@ Eureka Naming Server:
 
 Response with load balancer:
 
-![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/37a8c2e4-f17b-4560-9fa3-d10ff1004c8c)
+![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/18ed4830-9217-475e-8340-b2bd794745b8)
+
