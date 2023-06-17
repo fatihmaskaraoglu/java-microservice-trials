@@ -9,8 +9,6 @@ C
 limits-service/mvnw,8\6\862a5fdae4b9068efdb9f1c8e345bbf74637546a
 ê
 `limits-service/src/main/java/com/myapp/microservices/limitsservice/LimitsServiceApplication.java,4\7\47bf36ec7ccdfb10c93bf706e31c3d2a7ae451f4
-?
-microservice.md,f\b\fbd23daea9663faf0616e3df1d022cbd4ce60527
 d
 4limits-service/.mvn/wrapper/maven-wrapper.properties,d\d\dd4f22a69d24739bdea5867644c9ff2185c955dd
 S
