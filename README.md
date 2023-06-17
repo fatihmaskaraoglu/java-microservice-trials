@@ -13,3 +13,9 @@
 > With profile settings application take dev configs:
 
 ![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/25fb1c78-56f1-4e9b-900f-70aa78bed3c1)
+
+
+Eureka Naming Server:
+
+![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/89d18347-a492-4bb7-b65e-aa7b1758a11f)
+
