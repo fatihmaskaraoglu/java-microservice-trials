@@ -42,4 +42,3 @@ How do I build fault tolerance into my microservices?
 - new technology & process adaption
 - dynamic scaling
 - faster release cycles
-
