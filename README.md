@@ -24,3 +24,8 @@ Response with load balancer:
 
 ![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/18ed4830-9217-475e-8340-b2bd794745b8)
 
+
+With Logger:
+![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/82800e68-6d63-47c5-ac14-1a6a4dd505a3)
+
+
