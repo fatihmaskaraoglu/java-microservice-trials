@@ -69,8 +69,6 @@ V
 &currency-conversion-service/.gitignore,1\0\107b605ac43ab5806970a43335c11700020f5590
 »
 Šcurrency-conversion-service/src/test/java/com/myapp/microservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java,a\2\a229047b1bd8593fa0f40354c63073fb834dd261
-³
-‚currency-exchange-service/src/main/java/com/myapp/microservices/currencyexchangeservice/controller/CurrencyExchangeController.java,5\5\5519fd47944fd3f59273a195bbfe1a42c6f3f395
 q
 Acurrency-conversion-service/.mvn/wrapper/maven-wrapper.properties,2\a\2ae8034bcce0324c8a941fe81110254ab98586d8
 ³
