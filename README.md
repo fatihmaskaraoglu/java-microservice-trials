@@ -30,3 +30,6 @@
 ![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/82800e68-6d63-47c5-ac14-1a6a4dd505a3)
 
 
+> Circuit Breaker
+
+https://resilience4j.readme.io/docs/circuitbreaker
