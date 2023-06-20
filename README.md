@@ -37,11 +37,16 @@ https://resilience4j.readme.io/docs/circuitbreaker
 > Rate Limiter
 
 Controller :
+
 @RateLimiter(name = "default")
+
 Properties:
+
 resilience4j.ratelimiter.instances.default.limitForPeriod=2
 resilience4j.ratelimiter.instances.default.limitRefreshPeriod=10s
+
 Response for 3. call in 10s:
+
 This application has no explicit mapping for /error, so you are seeing this as a fallback.
 
 Tue Jun 20 21:13:45 TRT 2023
