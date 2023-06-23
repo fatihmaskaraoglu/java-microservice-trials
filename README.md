@@ -67,3 +67,6 @@ Launching Zipkin Container using Docker
 docker run -p 9411:9411 openzipkin/zipkin :2:23
 http://localhost:9411/zipkin/
 ```
+![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/18df63a1-6d2b-4293-ad57-9a17ae7575f0)
+
+
