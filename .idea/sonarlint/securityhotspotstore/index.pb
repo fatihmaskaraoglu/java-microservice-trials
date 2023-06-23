@@ -53,12 +53,8 @@ T
 $currency-exchange-service/.gitignore,3\2\320a607783ad98b762dc4be56c25b7c985fa4ff0
 ¯
 currency-exchange-service/src/main/java/com/myapp/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java,f\d\fd39d26c631e2f9638b0cc59ab89998e47aca18a
-?
-microservice.md,f\b\fbd23daea9663faf0616e3df1d022cbd4ce60527
 e
 5currency-exchange-service/src/main/resources/data.sql,b\5\b5715da0d3d053c4c1ddeae70f6ae6979de81238
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ¢
 rcurrency-exchange-service/src/main/java/com/myapp/microservices/currencyexchangeservice/bean/CurrencyExchange.java,7\6\762a63101bb6116ad28a5b5acc6ff9dcfcc1fb07
 P
@@ -93,8 +89,6 @@ c
 3naming-server/.mvn/wrapper/maven-wrapper.properties,a\2\a22e609bbb20c341fd6aaf563e0893ee2bb51b4e
 T
 $currency-conversion-service/mvnw.cmd,c\3\c344584b31c16090eada94c55ab9c74bd0f19c06
-S
-#currency-conversion-service/pom.xml,0\5\0512f3a99406e77c8643b5f8808ed6c4daad242f
 a
 1api-gateway/.mvn/wrapper/maven-wrapper.properties,9\b\9b50165078bd3b4bd3335febe71e220c01ad716f
 ‡

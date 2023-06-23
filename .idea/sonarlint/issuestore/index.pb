@@ -53,12 +53,8 @@ R
 "currency-exchange-service/mvnw.cmd,f\f\ff916c62d6a99d85e931653b77c7f8314536e210
 ¯
 currency-exchange-service/src/main/java/com/myapp/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java,f\d\fd39d26c631e2f9638b0cc59ab89998e47aca18a
-?
-microservice.md,f\b\fbd23daea9663faf0616e3df1d022cbd4ce60527
 e
 5currency-exchange-service/src/main/resources/data.sql,b\5\b5715da0d3d053c4c1ddeae70f6ae6979de81238
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 V
 &currency-conversion-service/.gitignore,1\0\107b605ac43ab5806970a43335c11700020f5590
 ¨
@@ -93,8 +89,6 @@ T
 $currency-conversion-service/mvnw.cmd,c\3\c344584b31c16090eada94c55ab9c74bd0f19c06
 ¹
 ˆcurrency-conversion-service/src/main/java/com/myapp/microservices/currencyconversionservice/controller/CurrencyConversionController.java,b\7\b71e74cfc72c4d8dc694906adaebd1d14e875f13
-S
-#currency-conversion-service/pom.xml,0\5\0512f3a99406e77c8643b5f8808ed6c4daad242f
 F
 api-gateway/.gitignore,f\f\ff1c5d5433a8148c17672f6832c630bb2426e4e9
 ‡
