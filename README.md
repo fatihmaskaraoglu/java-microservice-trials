@@ -60,3 +60,10 @@ Tue Jun 20 21:13:45 TRT 2023
 There was an unexpected error (type=Internal Server Error, status=500).
 RateLimiter 'default' does not permit further calls
 io.github.resilience4j.ratelimiter.RequestNotPermitted: RateLimiter 'default' does not permit further calls
+
+> Zipkin
+```
+Launching Zipkin Container using Docker
+docker run -p 9411:9411 openzipkin/zipkin :2:23
+http://localhost:9411/zipkin/
+```
