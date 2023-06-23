@@ -69,4 +69,6 @@ http://localhost:9411/zipkin/
 ```
 ![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/18df63a1-6d2b-4293-ad57-9a17ae7575f0)
 
+![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/593d1fb8-09fc-4516-895f-80e956095e0e)
+
 
