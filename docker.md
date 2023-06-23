@@ -111,4 +111,38 @@ c71276df4a87   2 weeks ago   /bin/sh -c #(nop)  CMD ["mysqld"]               0B
 C:\Users\fatih>docker image inspect c71276df4a87
 
 C:\Users\fatih>docker image remove c71276df4a87
+
+//pause
+C:\Users\fatih>docker container pause c71276df4a87
+//unpause
+C:\Users\fatih>docker container unpause c71276df4a87
+//detail
+C:\Users\fatih>docker container inspect c71276df4a87
+//remove all stopped containers
+C:\Users\fatih>docker container prune
+stop commandgracefull shoutdown
+
+//immediately stop
+C:\Users\fatih>docker container kill c71276df4a87
+
+//when docker restart container restart if you chose always
+C:\Users\fatih>docker run -p 5000:5000 -d --restart=always in28min/todo-rest-api-h2:1.0.0.RELEASE locally
+for close it  stop & prune needed
+
+//tracking what happened
+C:\Users\fatih>docker events
+
+//display the running processes of a container
+C:\Users\fatih>docker top c71276df4a87
+
+//give dockers stats
+C:\Users\fatih>docker stats
+
+//limit 512mb memory and %5 cpu quota
+C:\Users\fatih>docker run -p 5000:5000 -d -m 512m --cpu-quota 5000-d in28min/todo-rest-api-h2:1.0.0.RELEASE locally
+
+//all the diffrent docker daemon manages
+C:\Users\fatih>docker system df
+
+
 ```
