@@ -17,5 +17,4 @@ C:\Users\fatih>kubectl edit deployment hello-world-rest-api
 //deploy a new image with zero down time
 C:\Users\fatih>kubectl set iamge deploymen hello-world-rest-api hello-world-rest-api=fatihmas/myapp/hello-world-rest-api:0.0.2.RELEASE
 
-
 ```
