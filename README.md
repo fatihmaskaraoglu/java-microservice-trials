@@ -1,6 +1,7 @@
 # java-microservice-trials
 This repository contains a collection of Java microservice trials developed by Fatih Maskaraoglu. These trials demonstrate various concepts and functionalities related to building microservices using Java and related frameworks.
 
+
 > With Spring Cloud Config Server:
 
 ![image](https://github.com/fatihmaskaraoglu/java-microservice-trials/assets/8976615/23c8b8f0-9dc2-42bc-b89b-0b30d63956c0)
