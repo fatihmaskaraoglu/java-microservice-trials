@@ -18,3 +18,6 @@ http://localhost:8765/CURRENCY-EXCHANGE/currency-exchange/from/USD/to/TL
 api-gateway lower case:
 spring.cloud.gateway.discovery.locator.lowerCaseServiceId=true
 http://localhost:8765/currency-exchange/currency-exchange/from/USD/to/TL
+
+
+http://localhost:8765/currency-exchange/from/USD/to/TL

@@ -144,5 +144,8 @@ C:\Users\fatih>docker run -p 5000:5000 -d -m 512m --cpu-quota 5000-d in28min/tod
 //all the diffrent docker daemon manages
 C:\Users\fatih>docker system df
 
+Launching Zipkin Container using Docker
+docker run -p 9411:9411 openzipkin/zipkin :2:23
+http://localhost:9411/zipkin/
 
 ```
